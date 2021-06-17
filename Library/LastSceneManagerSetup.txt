@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RealSenseSDK2.0/Scenes/Samples/PointCloudDepthAndColor.unity
+  isLoaded: 1
+  isActive: 1
